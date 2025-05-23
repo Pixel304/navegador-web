@@ -1,0 +1,15 @@
+Navegador web
+
+Este trabajo es un navegador web el cual puede leer las url para llevarte ala que deeses pagina
+
+Puedes:
+-Escribir la url de tu pagina y te llevara a la pagina
+
+Para hacerlo tienes que importer estos modulos:
+
+import sys 
+from PyQt5.QtCore import QUrl 
+from PyQt5.QtWidgets import*
+from PyQt5.QtWebEngineWidgets import QWebEngineView 
+
+Autor: Paolo Palacios Rodriguez
